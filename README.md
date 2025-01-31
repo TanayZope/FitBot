@@ -12,7 +12,7 @@ The project utilizes advanced technologies to enhance the user experience:
 
 ## 🛠️ Features
 1. **General Health and Fitness guidance :** Generates accurate information for any given query the user has using the trained gpt2 model.
-2. **Exercise Routine Generation :** a Separate UI feature for workout and exercise generation
+2. **Exercise Routine Generation :** Separate UI feature for workout and exercise generation
 3. **User-Friendly Interaction :** Features a chat-like interface that is easy to use and interact with.
 4. **Flask Based Backend :** Provides Seamless Communication.
 
@@ -63,7 +63,7 @@ Contributions to the project are welcome. If you encounter any issues or have su
 
 ## Acknowledgments
 
-Special thanks to [Mayak Singh](https://github.com/mayyyank) who contributed to this project with their invaluable guidance and support:
+Special thanks to [Mayak Singh](https://github.com/mayyyank) for his valuable contributions and collaboration on this project:
 
 
 For any queries or feedback, please feel free to reach out to [zopetanay@gmail.com](mailto:zopetanay@gmail.com).
