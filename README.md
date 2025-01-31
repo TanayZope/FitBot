@@ -11,7 +11,7 @@ The project utilizes advanced technologies to enhance the user experience:
 4. **Database**: Knowledge Base & Retrieval System
 
 ## 🛠️ Features
-1. **General Health and Fitness guidance :** Generates accurate information for any given query the user has using the trained gpt2 model.
+1. **General Health and Fitness guidance :** Generates accurate answers for any user query using a trained GPT-2 model.
 2. **Exercise Routine Generation :** Separate UI feature for workout and exercise generation
 3. **User-Friendly Interaction :** Features a chat-like interface that is easy to use and interact with.
 4. **Flask Based Backend :** Provides Seamless Communication.
