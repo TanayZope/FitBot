@@ -6,7 +6,7 @@ FitBot is an AI-driven chatbot that uses large language models (LLMs) such as GP
 ## 🏗️ Tech Stack
 The project utilizes advanced technologies to enhance the user experience:
 1. **Backend**: Python, Flask
-2. **Machine Learning**: NLP, LLM Model
+2. **Deep Learning**: Transformer , GPT2-small Model
 3. **Database**: Knowledge Base & Retrieval System
 
 ## 🛠️ Features
